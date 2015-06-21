@@ -26,4 +26,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Checking in master is simple and faster
+    Separating a branch is much more involved but allows for a review of the changes beforehand, especially if it's about an experimental feauture, etc.
