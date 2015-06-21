@@ -7,14 +7,21 @@ scratchpad to gather changes, kind of like a changelist
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+diff the staging area to the last commit and check
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Experimental changes that might become relevant in the future.
+Branches will maintain them
 
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The features in both combine
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Saves up a lot of time
